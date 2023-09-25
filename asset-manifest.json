@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/stats-preview-component/static/css/main.25dec28e.css",
+    "main.js": "/stats-preview-component/static/js/main.3e162e36.js",
+    "static/js/787.650a5fb8.chunk.js": "/stats-preview-component/static/js/787.650a5fb8.chunk.js",
+    "static/media/Inter.ttf": "/stats-preview-component/static/media/Inter.853e01975d2783d9fa29.ttf",
+    "static/media/LexendDeca.ttf": "/stats-preview-component/static/media/LexendDeca.affd92df84e8108992b6.ttf",
+    "static/media/image-header-mobile.jpg": "/stats-preview-component/static/media/image-header-mobile.399f71e732a77d1f56c6.jpg",
+    "static/media/image-header-desktop.jpg": "/stats-preview-component/static/media/image-header-desktop.72d6e2a00c9131c7b6a6.jpg",
+    "index.html": "/stats-preview-component/index.html",
+    "main.25dec28e.css.map": "/stats-preview-component/static/css/main.25dec28e.css.map",
+    "main.3e162e36.js.map": "/stats-preview-component/static/js/main.3e162e36.js.map",
+    "787.650a5fb8.chunk.js.map": "/stats-preview-component/static/js/787.650a5fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25dec28e.css",
+    "static/js/main.3e162e36.js"
+  ]
+}
